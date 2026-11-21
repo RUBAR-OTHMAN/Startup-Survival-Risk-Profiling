@@ -90,7 +90,7 @@ Industry is the strongest signal, followed by time to first funding. Because ind
 
 ## Run it
 
-1. Download `big_startup_secsees_dataset.csv` from Kaggle: **[ADD KAGGLE LINK HERE]**
+1. Download `big_startup_secsees_dataset.csv` from Kaggle: **[kaggle.com/datasets/yanmaksi/big-startup-secsees-fail-dataset-from-crunchbase]**
 2. Put it next to the notebook.
 3. Install the packages and open the notebook:
    ```bash
