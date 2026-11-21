@@ -109,4 +109,3 @@ requirements.txt
 
 ---
 
-Built for ISyE 521: Machine Learning in Action (UW–Madison, Spring 2026) with Maggie Hannum and Lauren Vorpagel. I designed and built the full analysis pipeline.
